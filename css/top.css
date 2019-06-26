@@ -1,0 +1,17 @@
+body{
+/*	width: 100px;
+	height: 100px;*/
+	background-size: cover;
+	/*background-color: #369;*/
+	background-image: url("../image/yuuyake.png");
+}
+
+
+.ido{
+	display:block;
+}
+
+.seli{
+	width: 40%;
+	height: 40%;
+}
